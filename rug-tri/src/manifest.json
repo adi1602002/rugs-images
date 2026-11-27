@@ -1,0 +1,812 @@
+[
+ {
+  "page": 1,
+  "caption": "TRI-3001 90X150 CMS (1)",
+  "style": "TRI-3001",
+  "size": "90X150 CMS",
+  "idx": "1",
+  "slug": "TRI-3001_90x150cms_1",
+  "file": "TRI-3001_90x150cms_1.jpg"
+ },
+ {
+  "page": 1,
+  "caption": "TRI-3001 90X150 CMS (2)",
+  "style": "TRI-3001",
+  "size": "90X150 CMS",
+  "idx": "2",
+  "slug": "TRI-3001_90x150cms_2",
+  "file": "TRI-3001_90x150cms_2.jpg"
+ },
+ {
+  "page": 1,
+  "caption": "TRI-3002 120 CMS DIA (1)",
+  "style": "TRI-3002",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3002_120cmsdia_1",
+  "file": "TRI-3002_120cmsdia_1.jpg"
+ },
+ {
+  "page": 1,
+  "caption": "TRI-3002 120 CMS DIA (2)",
+  "style": "TRI-3002",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3002_120cmsdia_2",
+  "file": "TRI-3002_120cmsdia_2.jpg"
+ },
+ {
+  "page": 2,
+  "caption": "TRI-3003 90X150 CMS (1)",
+  "style": "TRI-3003",
+  "size": "90X150 CMS",
+  "idx": "1",
+  "slug": "TRI-3003_90x150cms_1",
+  "file": "TRI-3003_90x150cms_1.jpg"
+ },
+ {
+  "page": 2,
+  "caption": "TRI-3003 90X150 CMS (2)",
+  "style": "TRI-3003",
+  "size": "90X150 CMS",
+  "idx": "2",
+  "slug": "TRI-3003_90x150cms_2",
+  "file": "TRI-3003_90x150cms_2.jpg"
+ },
+ {
+  "page": 2,
+  "caption": "TRI-3004 90X150 CMS (1)",
+  "style": "TRI-3004",
+  "size": "90X150 CMS",
+  "idx": "1",
+  "slug": "TRI-3004_90x150cms_1",
+  "file": "TRI-3004_90x150cms_1.jpg"
+ },
+ {
+  "page": 2,
+  "caption": "TRI-3004 90X150 CMS (2)",
+  "style": "TRI-3004",
+  "size": "90X150 CMS",
+  "idx": "2",
+  "slug": "TRI-3004_90x150cms_2",
+  "file": "TRI-3004_90x150cms_2.jpg"
+ },
+ {
+  "page": 3,
+  "caption": "TRI-3005 120 CMS DIA (1)",
+  "style": "TRI-3005",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3005_120cmsdia_1",
+  "file": "TRI-3005_120cmsdia_1.jpg"
+ },
+ {
+  "page": 3,
+  "caption": "TRI-3005 120 CMS DIA (2)",
+  "style": "TRI-3005",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3005_120cmsdia_2",
+  "file": "TRI-3005_120cmsdia_2.jpg"
+ },
+ {
+  "page": 3,
+  "caption": "TRI-3006 120 CMS DIA. (1)",
+  "style": "TRI-3006",
+  "size": "120 CMS DIA.",
+  "idx": "1",
+  "slug": "TRI-3006_120cmsdia_1",
+  "file": "TRI-3006_120cmsdia_1.jpg"
+ },
+ {
+  "page": 3,
+  "caption": "TRI-3006 120 CMS DIA. (2)",
+  "style": "TRI-3006",
+  "size": "120 CMS DIA.",
+  "idx": "2",
+  "slug": "TRI-3006_120cmsdia_2",
+  "file": "TRI-3006_120cmsdia_2.jpg"
+ },
+ {
+  "page": 4,
+  "caption": "TRI-3007 90X150 CMS (1)",
+  "style": "TRI-3007",
+  "size": "90X150 CMS",
+  "idx": "1",
+  "slug": "TRI-3007_90x150cms_1",
+  "file": "TRI-3007_90x150cms_1.jpg"
+ },
+ {
+  "page": 4,
+  "caption": "TRI-3007 90X150 CMS (2)",
+  "style": "TRI-3007",
+  "size": "90X150 CMS",
+  "idx": "2",
+  "slug": "TRI-3007_90x150cms_2",
+  "file": "TRI-3007_90x150cms_2.jpg"
+ },
+ {
+  "page": 4,
+  "caption": "TRI-3008 120 CMS DIA. (1)",
+  "style": "TRI-3008",
+  "size": "120 CMS DIA.",
+  "idx": "1",
+  "slug": "TRI-3008_120cmsdia_1",
+  "file": "TRI-3008_120cmsdia_1.jpg"
+ },
+ {
+  "page": 4,
+  "caption": "TRI-3008 120 CMS DIA. (2)",
+  "style": "TRI-3008",
+  "size": "120 CMS DIA.",
+  "idx": "2",
+  "slug": "TRI-3008_120cmsdia_2",
+  "file": "TRI-3008_120cmsdia_2.jpg"
+ },
+ {
+  "page": 5,
+  "caption": "TRI-3009 120 CMS DIA. (1)",
+  "style": "TRI-3009",
+  "size": "120 CMS DIA.",
+  "idx": "1",
+  "slug": "TRI-3009_120cmsdia_1",
+  "file": "TRI-3009_120cmsdia_1.jpg"
+ },
+ {
+  "page": 5,
+  "caption": "TRI-3009 120 CMS DIA. (2)",
+  "style": "TRI-3009",
+  "size": "120 CMS DIA.",
+  "idx": "2",
+  "slug": "TRI-3009_120cmsdia_2",
+  "file": "TRI-3009_120cmsdia_2.jpg"
+ },
+ {
+  "page": 5,
+  "caption": "TRI-3011 120 CMS DIA (1)",
+  "style": "TRI-3011",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3011_120cmsdia_1",
+  "file": "TRI-3011_120cmsdia_1.jpg"
+ },
+ {
+  "page": 5,
+  "caption": "TRI-3011 120 CMS DIA (2)",
+  "style": "TRI-3011",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3011_120cmsdia_2",
+  "file": "TRI-3011_120cmsdia_2.jpg"
+ },
+ {
+  "page": 6,
+  "caption": "TRI-3012 90X150 CMS (1)",
+  "style": "TRI-3012",
+  "size": "90X150 CMS",
+  "idx": "1",
+  "slug": "TRI-3012_90x150cms_1",
+  "file": "TRI-3012_90x150cms_1.jpg"
+ },
+ {
+  "page": 6,
+  "caption": "TRI-3012 90X150 CMS (2)",
+  "style": "TRI-3012",
+  "size": "90X150 CMS",
+  "idx": "2",
+  "slug": "TRI-3012_90x150cms_2",
+  "file": "TRI-3012_90x150cms_2.jpg"
+ },
+ {
+  "page": 6,
+  "caption": "TRI-3013 120 CMS DIA (1)",
+  "style": "TRI-3013",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3013_120cmsdia_1",
+  "file": "TRI-3013_120cmsdia_1.jpg"
+ },
+ {
+  "page": 6,
+  "caption": "TRI-3013 120 CMS DIA (2)",
+  "style": "TRI-3013",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3013_120cmsdia_2",
+  "file": "TRI-3013_120cmsdia_2.jpg"
+ },
+ {
+  "page": 7,
+  "caption": "TRI-3015 120 CMS DIA (1)",
+  "style": "TRI-3015",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3015_120cmsdia_1",
+  "file": "TRI-3015_120cmsdia_1.jpg"
+ },
+ {
+  "page": 7,
+  "caption": "TRI-3015 120 CMS DIA (2)",
+  "style": "TRI-3015",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3015_120cmsdia_2",
+  "file": "TRI-3015_120cmsdia_2.jpg"
+ },
+ {
+  "page": 7,
+  "caption": "TRI-3016 90x150 CMS (1)",
+  "style": "TRI-3016",
+  "size": "90x150 CMS",
+  "idx": "1",
+  "slug": "TRI-3016_90x150cms_1",
+  "file": "TRI-3016_90x150cms_1.jpg"
+ },
+ {
+  "page": 7,
+  "caption": "TRI-3016 90x150 CMS (2)",
+  "style": "TRI-3016",
+  "size": "90x150 CMS",
+  "idx": "2",
+  "slug": "TRI-3016_90x150cms_2",
+  "file": "TRI-3016_90x150cms_2.jpg"
+ },
+ {
+  "page": 8,
+  "caption": "TRI-3017 90x150 CMS (1)",
+  "style": "TRI-3017",
+  "size": "90x150 CMS",
+  "idx": "1",
+  "slug": "TRI-3017_90x150cms_1",
+  "file": "TRI-3017_90x150cms_1.jpg"
+ },
+ {
+  "page": 8,
+  "caption": "TRI-3017 90x150 CMS (2)",
+  "style": "TRI-3017",
+  "size": "90x150 CMS",
+  "idx": "2",
+  "slug": "TRI-3017_90x150cms_2",
+  "file": "TRI-3017_90x150cms_2.jpg"
+ },
+ {
+  "page": 8,
+  "caption": "TRI-3018 90x150 CMS (1)",
+  "style": "TRI-3018",
+  "size": "90x150 CMS",
+  "idx": "1",
+  "slug": "TRI-3018_90x150cms_1",
+  "file": "TRI-3018_90x150cms_1.jpg"
+ },
+ {
+  "page": 8,
+  "caption": "TRI-3018 90x150 CMS (2)",
+  "style": "TRI-3018",
+  "size": "90x150 CMS",
+  "idx": "2",
+  "slug": "TRI-3018_90x150cms_2",
+  "file": "TRI-3018_90x150cms_2.jpg"
+ },
+ {
+  "page": 9,
+  "caption": "TRI-3019 90x150 CMS (1)",
+  "style": "TRI-3019",
+  "size": "90x150 CMS",
+  "idx": "1",
+  "slug": "TRI-3019_90x150cms_1",
+  "file": "TRI-3019_90x150cms_1.jpg"
+ },
+ {
+  "page": 9,
+  "caption": "TRI-3019 90x150 CMS (2)",
+  "style": "TRI-3019",
+  "size": "90x150 CMS",
+  "idx": "2",
+  "slug": "TRI-3019_90x150cms_2",
+  "file": "TRI-3019_90x150cms_2.jpg"
+ },
+ {
+  "page": 9,
+  "caption": "TRI-3020 90x150 CMS (1)",
+  "style": "TRI-3020",
+  "size": "90x150 CMS",
+  "idx": "1",
+  "slug": "TRI-3020_90x150cms_1",
+  "file": "TRI-3020_90x150cms_1.jpg"
+ },
+ {
+  "page": 9,
+  "caption": "TRI-3020 90x150 CMS (2)",
+  "style": "TRI-3020",
+  "size": "90x150 CMS",
+  "idx": "2",
+  "slug": "TRI-3020_90x150cms_2",
+  "file": "TRI-3020_90x150cms_2.jpg"
+ },
+ {
+  "page": 10,
+  "caption": "TRI-3021 90x150 CMS (1)",
+  "style": "TRI-3021",
+  "size": "90x150 CMS",
+  "idx": "1",
+  "slug": "TRI-3021_90x150cms_1",
+  "file": "TRI-3021_90x150cms_1.jpg"
+ },
+ {
+  "page": 10,
+  "caption": "TRI-3021 90x150 CMS (2)",
+  "style": "TRI-3021",
+  "size": "90x150 CMS",
+  "idx": "2",
+  "slug": "TRI-3021_90x150cms_2",
+  "file": "TRI-3021_90x150cms_2.jpg"
+ },
+ {
+  "page": 10,
+  "caption": "TRI-3022 120 CMS DIA. (1)",
+  "style": "TRI-3022",
+  "size": "120 CMS DIA.",
+  "idx": "1",
+  "slug": "TRI-3022_120cmsdia_1",
+  "file": "TRI-3022_120cmsdia_1.jpg"
+ },
+ {
+  "page": 10,
+  "caption": "TRI-3022 120 CMS DIA. (2)",
+  "style": "TRI-3022",
+  "size": "120 CMS DIA.",
+  "idx": "2",
+  "slug": "TRI-3022_120cmsdia_2",
+  "file": "TRI-3022_120cmsdia_2.jpg"
+ },
+ {
+  "page": 11,
+  "caption": "TRI-3023 120 CMS DIA (1)",
+  "style": "TRI-3023",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3023_120cmsdia_1",
+  "file": "TRI-3023_120cmsdia_1.jpg"
+ },
+ {
+  "page": 11,
+  "caption": "TRI-3023 120 CMS DIA (2)",
+  "style": "TRI-3023",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3023_120cmsdia_2",
+  "file": "TRI-3023_120cmsdia_2.jpg"
+ },
+ {
+  "page": 11,
+  "caption": "TRI-3024 120 CMS DIA (1)",
+  "style": "TRI-3024",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3024_120cmsdia_1",
+  "file": "TRI-3024_120cmsdia_1.jpg"
+ },
+ {
+  "page": 11,
+  "caption": "TRI-3024 120 CMS DIA (2)",
+  "style": "TRI-3024",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3024_120cmsdia_2",
+  "file": "TRI-3024_120cmsdia_2.jpg"
+ },
+ {
+  "page": 12,
+  "caption": "TRI-3024 120 CMS DIA (3)",
+  "style": "TRI-3024",
+  "size": "120 CMS DIA",
+  "idx": "3",
+  "slug": "TRI-3024_120cmsdia_3",
+  "file": "TRI-3024_120cmsdia_3.jpg"
+ },
+ {
+  "page": 12,
+  "caption": "TRI-3024 120 CMS DIA (4)",
+  "style": "TRI-3024",
+  "size": "120 CMS DIA",
+  "idx": "4",
+  "slug": "TRI-3024_120cmsdia_4",
+  "file": "TRI-3024_120cmsdia_4.jpg"
+ },
+ {
+  "page": 12,
+  "caption": "TRI-3026 90x150 CMS (1)",
+  "style": "TRI-3026",
+  "size": "90x150 CMS",
+  "idx": "1",
+  "slug": "TRI-3026_90x150cms_1",
+  "file": "TRI-3026_90x150cms_1.jpg"
+ },
+ {
+  "page": 12,
+  "caption": "TRI-3026 90x150 CMS (2)",
+  "style": "TRI-3026",
+  "size": "90x150 CMS",
+  "idx": "2",
+  "slug": "TRI-3026_90x150cms_2",
+  "file": "TRI-3026_90x150cms_2.jpg"
+ },
+ {
+  "page": 13,
+  "caption": "TRI-3027 120 CMS DIA (1)",
+  "style": "TRI-3027",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3027_120cmsdia_1",
+  "file": "TRI-3027_120cmsdia_1.jpg"
+ },
+ {
+  "page": 13,
+  "caption": "TRI-3027 120 CMS DIA (2)",
+  "style": "TRI-3027",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3027_120cmsdia_2",
+  "file": "TRI-3027_120cmsdia_2.jpg"
+ },
+ {
+  "page": 13,
+  "caption": "TRI-3028 120 CMS DIA (1)",
+  "style": "TRI-3028",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3028_120cmsdia_1",
+  "file": "TRI-3028_120cmsdia_1.jpg"
+ },
+ {
+  "page": 13,
+  "caption": "TRI-3028 120 CMS DIA (2)",
+  "style": "TRI-3028",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3028_120cmsdia_2",
+  "file": "TRI-3028_120cmsdia_2.jpg"
+ },
+ {
+  "page": 14,
+  "caption": "TRI-3029 120 CMS DIA (1)",
+  "style": "TRI-3029",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3029_120cmsdia_1",
+  "file": "TRI-3029_120cmsdia_1.jpg"
+ },
+ {
+  "page": 14,
+  "caption": "TRI-3029 120 CMS DIA (2)",
+  "style": "TRI-3029",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3029_120cmsdia_2",
+  "file": "TRI-3029_120cmsdia_2.jpg"
+ },
+ {
+  "page": 14,
+  "caption": "TRI-3030 120 CMS DIA (1)",
+  "style": "TRI-3030",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3030_120cmsdia_1",
+  "file": "TRI-3030_120cmsdia_1.jpg"
+ },
+ {
+  "page": 14,
+  "caption": "TRI-3030 120 CMS DIA (2)",
+  "style": "TRI-3030",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3030_120cmsdia_2",
+  "file": "TRI-3030_120cmsdia_2.jpg"
+ },
+ {
+  "page": 15,
+  "caption": "TRI-3031 120 CMS DIA (1)",
+  "style": "TRI-3031",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3031_120cmsdia_1",
+  "file": "TRI-3031_120cmsdia_1.jpg"
+ },
+ {
+  "page": 15,
+  "caption": "TRI-3031 120 CMS DIA (2)",
+  "style": "TRI-3031",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3031_120cmsdia_2",
+  "file": "TRI-3031_120cmsdia_2.jpg"
+ },
+ {
+  "page": 15,
+  "caption": "TRI-3032 120 CMS DIA (1)",
+  "style": "TRI-3032",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3032_120cmsdia_1",
+  "file": "TRI-3032_120cmsdia_1.jpg"
+ },
+ {
+  "page": 15,
+  "caption": "TRI-3032 120 CMS DIA (2)",
+  "style": "TRI-3032",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3032_120cmsdia_2",
+  "file": "TRI-3032_120cmsdia_2.jpg"
+ },
+ {
+  "page": 16,
+  "caption": "TRI-3033 120 CMS DIA (1)",
+  "style": "TRI-3033",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3033_120cmsdia_1",
+  "file": "TRI-3033_120cmsdia_1.jpg"
+ },
+ {
+  "page": 16,
+  "caption": "TRI-3033 120 CMS DIA (2)",
+  "style": "TRI-3033",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3033_120cmsdia_2",
+  "file": "TRI-3033_120cmsdia_2.jpg"
+ },
+ {
+  "page": 16,
+  "caption": "TRI-3034 120 CMS DIA (1)",
+  "style": "TRI-3034",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3034_120cmsdia_1",
+  "file": "TRI-3034_120cmsdia_1.jpg"
+ },
+ {
+  "page": 16,
+  "caption": "TRI-3034 120 CMS DIA (2)",
+  "style": "TRI-3034",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3034_120cmsdia_2",
+  "file": "TRI-3034_120cmsdia_2.jpg"
+ },
+ {
+  "page": 17,
+  "caption": "TRI-3035 120 CMS DIA (1)",
+  "style": "TRI-3035",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3035_120cmsdia_1",
+  "file": "TRI-3035_120cmsdia_1.jpg"
+ },
+ {
+  "page": 17,
+  "caption": "TRI-3035 120 CMS DIA (2)",
+  "style": "TRI-3035",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3035_120cmsdia_2",
+  "file": "TRI-3035_120cmsdia_2.jpg"
+ },
+ {
+  "page": 17,
+  "caption": "TRI-3036 90X150 CMS (1)",
+  "style": "TRI-3036",
+  "size": "90X150 CMS",
+  "idx": "1",
+  "slug": "TRI-3036_90x150cms_1",
+  "file": "TRI-3036_90x150cms_1.jpg"
+ },
+ {
+  "page": 17,
+  "caption": "TRI-3036 90X150 CMS (2)",
+  "style": "TRI-3036",
+  "size": "90X150 CMS",
+  "idx": "2",
+  "slug": "TRI-3036_90x150cms_2",
+  "file": "TRI-3036_90x150cms_2.jpg"
+ },
+ {
+  "page": 18,
+  "caption": "TRI-3038 120 CMS DIA",
+  "style": "TRI-3038",
+  "size": "120 CMS DIA",
+  "idx": null,
+  "slug": "TRI-3038_120cmsdia",
+  "file": "TRI-3038_120cmsdia.jpg"
+ },
+ {
+  "page": 18,
+  "caption": "TRI-3039 120 CMS DIA",
+  "style": "TRI-3039",
+  "size": "120 CMS DIA",
+  "idx": null,
+  "slug": "TRI-3039_120cmsdia",
+  "file": "TRI-3039_120cmsdia.jpg"
+ },
+ {
+  "page": 18,
+  "caption": "TRI-3040 120 CMS DIA",
+  "style": "TRI-3040",
+  "size": "120 CMS DIA",
+  "idx": null,
+  "slug": "TRI-3040_120cmsdia",
+  "file": "TRI-3040_120cmsdia.jpg"
+ },
+ {
+  "page": 18,
+  "caption": "TRI-3041 120 CMS DIA",
+  "style": "TRI-3041",
+  "size": "120 CMS DIA",
+  "idx": null,
+  "slug": "TRI-3041_120cmsdia",
+  "file": "TRI-3041_120cmsdia.jpg"
+ },
+ {
+  "page": 19,
+  "caption": "TRI-3041 35x46 CMS",
+  "style": "TRI-3041",
+  "size": "35x46 CMS",
+  "idx": null,
+  "slug": "TRI-3041_35x46cms",
+  "file": "TRI-3041_35x46cms.jpg"
+ },
+ {
+  "page": 19,
+  "caption": "TRI-3041 35x47 CMS",
+  "style": "TRI-3041",
+  "size": "35x47 CMS",
+  "idx": null,
+  "slug": "TRI-3041_35x47cms",
+  "file": "TRI-3041_35x47cms.jpg"
+ },
+ {
+  "page": 19,
+  "caption": "TRI-3041 36x62 CMS oval",
+  "style": "TRI-3041",
+  "size": "36x62 CMS oval",
+  "idx": null,
+  "slug": "TRI-3041_36x62cmsoval",
+  "file": "TRI-3041_36x62cmsoval.jpg"
+ },
+ {
+  "page": 19,
+  "caption": "TRI-3042 120 CMS DIA",
+  "style": "TRI-3042",
+  "size": "120 CMS DIA",
+  "idx": null,
+  "slug": "TRI-3042_120cmsdia",
+  "file": "TRI-3042_120cmsdia.jpg"
+ },
+ {
+  "page": 20,
+  "caption": "TRI-3043 120 CMS DIA",
+  "style": "TRI-3043",
+  "size": "120 CMS DIA",
+  "idx": null,
+  "slug": "TRI-3043_120cmsdia",
+  "file": "TRI-3043_120cmsdia.jpg"
+ },
+ {
+  "page": 20,
+  "caption": "TRI-3044 120 CMS DIA (1)",
+  "style": "TRI-3044",
+  "size": "120 CMS DIA",
+  "idx": "1",
+  "slug": "TRI-3044_120cmsdia_1",
+  "file": "TRI-3044_120cmsdia_1.jpg"
+ },
+ {
+  "page": 20,
+  "caption": "TRI-3044 120 CMS DIA (2)",
+  "style": "TRI-3044",
+  "size": "120 CMS DIA",
+  "idx": "2",
+  "slug": "TRI-3044_120cmsdia_2",
+  "file": "TRI-3044_120cmsdia_2.jpg"
+ },
+ {
+  "page": 20,
+  "caption": "TRI-3046 120 CMS DIA",
+  "style": "TRI-3046",
+  "size": "120 CMS DIA",
+  "idx": null,
+  "slug": "TRI-3046_120cmsdia",
+  "file": "TRI-3046_120cmsdia.jpg"
+ },
+ {
+  "page": 21,
+  "caption": "TRI-3047 120 CMS DIA",
+  "style": "TRI-3047",
+  "size": "120 CMS DIA",
+  "idx": null,
+  "slug": "TRI-3047_120cmsdia",
+  "file": "TRI-3047_120cmsdia.jpg"
+ },
+ {
+  "page": 21,
+  "caption": "TRI-3048 72x136 CMS",
+  "style": "TRI-3048",
+  "size": "72x136 CMS",
+  "idx": null,
+  "slug": "TRI-3048_72x136cms",
+  "file": "TRI-3048_72x136cms.jpg"
+ },
+ {
+  "page": 21,
+  "caption": "TRI-3049 72x142 CMS (1)",
+  "style": "TRI-3049",
+  "size": "72x142 CMS",
+  "idx": "1",
+  "slug": "TRI-3049_72x142cms_1",
+  "file": "TRI-3049_72x142cms_1.jpg"
+ },
+ {
+  "page": 21,
+  "caption": "TRI-3049 72x142 CMS (2)",
+  "style": "TRI-3049",
+  "size": "72x142 CMS",
+  "idx": "2",
+  "slug": "TRI-3049_72x142cms_2",
+  "file": "TRI-3049_72x142cms_2.jpg"
+ },
+ {
+  "page": 22,
+  "caption": "TRI-3050",
+  "style": "TRI-3050",
+  "size": "",
+  "idx": null,
+  "slug": "TRI-3050",
+  "file": "TRI-3050.jpg"
+ },
+ {
+  "page": 22,
+  "caption": "TRI-3051 64X93 CMS",
+  "style": "TRI-3051",
+  "size": "64X93 CMS",
+  "idx": null,
+  "slug": "TRI-3051_64x93cms",
+  "file": "TRI-3051_64x93cms.jpg"
+ },
+ {
+  "page": 22,
+  "caption": "TRI-3052 122X204 CMS",
+  "style": "TRI-3052",
+  "size": "122X204 CMS",
+  "idx": null,
+  "slug": "TRI-3052_122x204cms",
+  "file": "TRI-3052_122x204cms.jpg"
+ },
+ {
+  "page": 22,
+  "caption": "TRI-3053 137X178 CMS",
+  "style": "TRI-3053",
+  "size": "137X178 CMS",
+  "idx": null,
+  "slug": "TRI-3053_137x178cms",
+  "file": "TRI-3053_137x178cms.jpg"
+ },
+ {
+  "page": 23,
+  "caption": "TRI-3054 140x178 CMS",
+  "style": "TRI-3054",
+  "size": "140x178 CMS",
+  "idx": null,
+  "slug": "TRI-3054_140x178cms",
+  "file": "TRI-3054_140x178cms.jpg"
+ },
+ {
+  "page": 23,
+  "caption": "TRI-3055 140 X204 CMS",
+  "style": "TRI-3055",
+  "size": "140 X204 CMS",
+  "idx": null,
+  "slug": "TRI-3055_140x204cms",
+  "file": "TRI-3055_140x204cms.jpg"
+ }
+]
